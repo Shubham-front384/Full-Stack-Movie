@@ -1,0 +1,17 @@
+All:
+https://api.themoviedb.org/3/discover/movie?api_key=c9dc15f1effa5db5bc5d340c04043236
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=c9dc15f1effa5db5bc5d340c04043236
+
+Trending:
+https://api.themoviedb.org/3/trending/movie/day?api_key=c9dc15f1effa5db5bc5d340c04043236
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=c9dc15f1effa5db5bc5d340c04043236&query=batman
+
+Movie Details:
+https://api.themoviedb.org/3/movie/MOVIE_ID?api_key=c9dc15f1effa5db5bc5d340c04043236
+
+Movie Trailer/Video:
+https://api.themoviedb.org/3/movie/MOVIE_ID/videos?api_key=c9dc15f1effa5db5bc5d340c04043236
